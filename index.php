@@ -5,6 +5,6 @@
 	<title>Hola Mundo</title>
 </head>
 <body>
-	<h1><?php echo "Hola Mundo Alejandro García Pérez"; ?></h1>
+	<h1><?php echo "Hola Mundo Alejandro García Pérez(modificación hecha en github)"; ?></h1>
 </body>
 </html>
